@@ -223,6 +223,7 @@ img {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
+  padding-bottom: 0px;
 }
 
 .grid {
